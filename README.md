@@ -30,19 +30,18 @@ No build step — these are plain HTML/CSS.
 
 (If you set up a custom domain, add a `CNAME` file with your domain.)
 
-## Before you publish — customize these
+## Already filled in
+
+- **Legal entity:** Piedmont Systems & Software
+- **Governing law / venue:** State of North Carolina, USA (`terms.html` §13)
+- **Contact email:** `info@piedmontsys.com`
+- **"Last updated" date:** June 18, 2026 — update it whenever you change the
+  content.
+
+## Still recommended before relying on them
 
 These pages are a solid, app-specific starting point, but they are **not legal
-advice**. Before relying on them, please:
-
-- Replace the **governing law / venue** placeholder in `terms.html`
-  (section 13) with your actual jurisdiction.
-- Confirm the **legal entity name** and **contact email**
-  (`info@piedmontsys.com` is used throughout) are correct.
-- Have both documents **reviewed by a qualified lawyer**, and make sure they
-  meet the requirements that apply to you (e.g. GDPR, UK GDPR, CCPA/CPRA) and
-  the policy/privacy-label requirements of the **Apple App Store** and
-  **Google Play**.
-
-The "Last updated" date is set to **June 18, 2026** — update it whenever you
-change the content.
+advice**. Before relying on them, please have both documents **reviewed by a
+qualified lawyer**, and make sure they meet the requirements that apply to you
+(e.g. GDPR, UK GDPR, CCPA/CPRA) and the policy/privacy-label requirements of the
+**Apple App Store** and **Google Play**.
